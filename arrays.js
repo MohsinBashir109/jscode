@@ -1,0 +1,13 @@
+const student = ["mohsin", "bashir", "ali,hamza"];
+// student = [1, 2, 3, 4, 5, 6];
+name = student[0];
+student[4];
+student[3] = "mohsin";
+console.log(student, name, student[4]);
+student.pop();
+student.push(1);
+let mohsin = 123;
+mohsin = 50;
+console.log("====================================");
+console.log(student, mohsin, student.indexOf("saif"));
+console.log("====================================");
